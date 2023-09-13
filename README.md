@@ -1,1 +1,1 @@
-The current project is to create a basic recipes website. The skills i will have demonstrated will be using html coding coventions correctly,using git and uploading to git hub. Css will be added in the future# odin-recipes
+The current project is to create a basic recipes website. The skills i will have demonstrated will be using html coding coventions correctly,using git and uploading to git hub. Css will be added in the future.
